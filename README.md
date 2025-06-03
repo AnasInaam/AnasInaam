@@ -29,7 +29,7 @@ I'm currently pursuing my B.Tech in Computer Engineering at SVKM's Institute of 
   <a href="https://stackoverflow.com/users/28198564/mohammad-anas"><img src="https://img.shields.io/badge/StackOverflow-f48024?style=flat&logo=stackoverflow&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Anasinaam/"><img src="https://img.shields.io/badge/LeetCode-f89f1b?style=flat&logo=leetcode&logoColor=white"/></a>
   <a href="https://github.com/AnasInaam/AnasInaam-Portfolio"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1udMH7njjIb5OeSafosvC0VdIFDBvtE4M/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285f4?style=flat&logo=google-drive&logoColor=white"/></a>
+  <a href="https://github.com/AnasInaam/AnasInaam/blob/f4340f26e470a90a829d7aee7c3cc08e0ccaf425/Resume%20Submitted.pdf"><img src="https://img.shields.io/badge/Resume-4285f4?style=flat&logo=google-drive&logoColor=white"/></a>
 </p>
 
 ---
